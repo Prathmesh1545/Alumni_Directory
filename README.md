@@ -41,17 +41,17 @@ The platform allows alumni to view and update their profiles, search for peers, 
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/repository_name.git
-2.Move the project files to the htdocs folder of XAMPP.
-3.Start the XAMPP server and ensure Apache and MySQL are running.
-4.Import the database:
- Open phpMyAdmin in your browser (usually at http://localhost/phpmyadmin).
- Create a new database (e.g., alumni_directory).
- Import the provided .sql file from the database folder into the database.
-5.Configure the database connection in the config.php file:
- $servername = "localhost";
- $username = "root"; // Default username
- $password = ""; // Default password for XAMPP
- $dbname = "alumni_directory";
+#### 2.Move the project files to the htdocs folder of XAMPP.
+#### 3.Start the XAMPP server and ensure Apache and MySQL are running.
+#### 4.Import the database:
+ ##### Open phpMyAdmin in your browser (usually at http://localhost/phpmyadmin).
+ ##### Create a new database (e.g., alumni_directory).
+ ##### Import the provided .sql file from the database folder into the database.
+#### 5.Configure the database connection in the config.php file:
+ ##### $servername = "localhost";
+ ##### $username = "root"; // Default username
+ ##### $password = ""; // Default password for XAMPP
+ ##### $dbname = "alumni_directory";
 
 ---
 
