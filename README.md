@@ -53,19 +53,25 @@ The platform allows alumni to view and update their profiles, search for peers, 
  $password = ""; // Default password for XAMPP
  $dbname = "alumni_directory";
 
- How to Use
-1.Open the website in your browser (e.g., http://localhost/alumni-directory).
-2.Alumni can log in using their credentials to access their profiles.
-3.Admin can log in to manage alumni data.
+---
 
-Contributions
-Contributions are welcome! Feel free to:
+## How to Use
+### 1.Open the website in your browser (e.g., http://localhost/alumni-directory).
+### 2.Alumni can log in using their credentials to access their profiles.
+### 3.Admin can log in to manage alumni data.
+
+---
+
+## Contributions
+### Contributions are welcome! Feel free to:
 Submit issues or bugs.
 Suggest new features.
 Create pull requests for enhancements.
 
-Contact
-For any queries or feedback, feel free to contact:
+---
+
+## Contact
+### For any queries or feedback, feel free to contact:
 GitHub:Prathmesh1545
 
 
