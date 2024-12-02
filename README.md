@@ -1,35 +1,46 @@
 # Alumni_Directory
-Alumni Directory Website
-Project Overview
-This is a web-based alumni directory designed to help alumni of an institution connect and stay in touch. 
+
+## Alumni Directory Website
+
+### Project Overview
+This is a web-based alumni directory designed to help alumni of an institution connect and stay in touch.  
 The platform allows alumni to view and update their profiles, search for peers, and maintain a robust network.
 
-Features
-Frontend: Built using HTML, CSS, and JavaScript for an intuitive and responsive design.
-Backend: Implemented with PHP and MySQL for secure data storage and management.
-Search Functionality: Search for alumni by name, batch, or location.
-Profile Management: Alumni can log in, view, and update their profiles.
-Admin Panel: Manage alumni entries and ensure data accuracy.
+---
 
-Technologies Used
-Frontend:
-HTML
-CSS
-JavaScript
-Backend:
-PHP
-MySQL
-Tools:
-XAMPP (Localhost Server)
+## Features
+- **Frontend**: Built using HTML, CSS, and JavaScript for an intuitive and responsive design.  
+- **Backend**: Implemented with PHP and MySQL for secure data storage and management.
+- **Search Functionality**: Search for alumni by name, batch, or location.
+- **Profile Management**: Alumni can log in, view, and update their profiles.
+- **Admin Panel**: Manage alumni entries and ensure data accuracy.
 
-Setup Instructions
-Prerequisites:
-1.XAMPP or any other local development server.
-2.Basic knowledge of PHP and MySQL.
+---
 
-Steps:
-1.Clone this repository:
-git clone https://github.com/your-username/repository_name.git
+## Technologies Used
+### Frontend:
+- HTML
+- CSS
+- JavaScript
+
+### Backend:
+- PHP
+- MySQL
+
+### Tools:
+- XAMPP (Localhost Server)
+
+---
+
+## Setup Instructions
+### Prerequisites:
+1. XAMPP or any other local development server.
+2. Basic knowledge of PHP and MySQL.
+
+### Steps:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/repository_name.git
 2.Move the project files to the htdocs folder of XAMPP.
 3.Start the XAMPP server and ensure Apache and MySQL are running.
 4.Import the database:
