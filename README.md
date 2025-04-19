@@ -40,7 +40,7 @@ The platform allows alumni to view and update their profiles, search for peers, 
 ### Steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/repository_name.git
+   git clone https://github.com/Prathmesh1545/Alumni_Directory
 #### 2.Move the project files to the htdocs folder of XAMPP.
 #### 3.Start the XAMPP server and ensure Apache and MySQL are running.
 #### 4.Import the database:
